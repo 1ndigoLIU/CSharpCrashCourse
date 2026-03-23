@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpCrashCourse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+814b369996dd81b2a9028c9d8792bc4087ffb97a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpCrashCourse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpCrashCourse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
